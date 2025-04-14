@@ -2,7 +2,7 @@
 
 [![Blog-Evan's Space](https://img.shields.io/badge/Blog-Evan's%20Space-black?logo=blog&color=EA4C89)](https://evan.xin)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav)](https://github.com/EvanTop/EvanNav/stargazers)
-
+[![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav?style=social&label_color=000000&color=FFFF00&logo_color=FFFF00)](https://github.com/EvanTop/EvanNav/stargazers)
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&count_private=true&theme=radical)](https://github.com/EvanTop)
