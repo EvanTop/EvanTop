@@ -6,5 +6,5 @@
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&count_private=true&theme=radical)](https://github.com/EvanTop)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvanTop&theme=radical)](https://github.com/EvanTop)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvanTop&theme=dark)](https://github.com/EvanTop)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&theme=radical)](https://github.com/EvanTop)
