@@ -1,6 +1,7 @@
 # Hi 👋 I'm Evan 😜
 
 [![Blog-Evan's Space](https://img.shields.io/badge/Blog-Evan's%20Space-black?logo=blog&color=FE3A83)](https://evan.xin)
+[![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav/total.svg?color=FE3A83)](https://github.com/EvanTop/EvanNav/releases)
 [![Stars Count](https://img.shields.io/badge/Stars-21-FE3A83)](https://github.com/EvanTop/EvanNav/stargazers)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav)](https://github.com/EvanTop/EvanNav/stargazers)
 
