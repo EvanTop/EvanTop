@@ -13,7 +13,7 @@
   <a href="https://github.com/EvanTop">
     <img height="150px" style="object-fit:cover" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&theme=radical" />
   </a>
-  <a href="https://github.com/EvanTop/EvanNav/releases/tag/EvanNav_v6.1">
+  <a href="https://github.com/EvanTop/EvanNav/releases/tag/EvanNav_v6.2">
     <img height="287px" src="https://i.imgur.com/wCWphmu.png" />
   </a>
 </div>
