@@ -4,7 +4,7 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav/total.svg?color=FE3A83)](https://github.com/EvanTop/EvanNav/releases)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav)](https://github.com/EvanTop/EvanNav/stargazers)
 [![Repo Size](https://img.shields.io/github/repo-size/EvanTop/EvanNav_SV?style=flat)](https://github.com/EvanTop/EvanNav_SV)
-[![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav_SV/total?style=flat)](https://github.com/EvanTop/EvanNav/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav_SV/total?style=flat)](https://github.com/EvanTop/EvanNav_SV/releases)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav_SV?style=flat)](https://github.com/EvanTop/EvanNav_SV/stargazers)
 
 
