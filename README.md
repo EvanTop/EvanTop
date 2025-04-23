@@ -20,4 +20,5 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date)](https://www.star-history.com/?utm_source=bestxtools.com#EvanTop/EvanNav&Date)
+<img src="https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date" alt="Star History Chart" width="70%">
+
