@@ -18,7 +18,4 @@
   </a>
 </div>
 
-## Star History
-
-<img src="https://api.star-history.com/svg?repos=EvanTop" alt="Star History Chart" width="80%">
 
