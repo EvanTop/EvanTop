@@ -20,5 +20,5 @@
 
 ## Star History
 
-<img src="https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date" alt="Star History Chart" width="70%">
+<img src="https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date" alt="Star History Chart" width="80%">
 
