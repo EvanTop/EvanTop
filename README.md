@@ -4,10 +4,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav/total.svg?color=FE3A83)](https://github.com/EvanTop/EvanNav/releases)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav)](https://github.com/EvanTop/EvanNav/stargazers)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date)](https://www.star-history.com/?utm_source=bestxtools.com#EvanTop/EvanNav&Date)
-
 ## GitHub Stats
 
 <div style="display:flex;justify-content:space-between">
@@ -21,3 +17,7 @@
     <img height="287px" src="https://i.imgur.com/wCWphmu.png" />
   </a>
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EvanTop/EvanNav&type=Date)](https://www.star-history.com/?utm_source=bestxtools.com#EvanTop/EvanNav&Date)
