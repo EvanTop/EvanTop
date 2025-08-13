@@ -7,10 +7,7 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/EvanTop/EvanNav_SV/total?style=flat)](https://github.com/EvanTop/EvanNav_SV/releases)
 [![Stars](https://img.shields.io/github/stars/EvanTop/EvanNav_SV?style=flat)](https://github.com/EvanTop/EvanNav_SV/stargazers)
 
-
-
-
-## GitHub Stats
+---
 
 <div style="display:flex;justify-content:space-between">
   <a href="https://github.com/EvanTop">
