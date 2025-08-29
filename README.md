@@ -18,12 +18,10 @@
   <a href="https://github.com/EvanTop/EvanNav/releases/tag/EvanNav_v6.3">
     <img height="287px" src="https://i.imgur.com/wCWphmu.png" />
   </a>
-      <a href="https://github.com/EvanTop/EvanMi">
+  <a href="https://github.com/EvanTop/EvanMi">
     <img height="287px" src="https://i.imgur.com/QLpUw16.png" />
   </a>
-  <a href="https://github.com/EvanTop/EvanCard">
-    <img height="287px" src="https://i.imgur.com/b5N9sQK.png" />
-  </a>
+
 
 </div>
 
