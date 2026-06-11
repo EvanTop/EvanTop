@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: e975f0ba2c6e063cbe4a5da67f0cfdd8_ed4d5aab65ac11f18b225254006c9bbf
-    ReservedCode1: wpjJRCaqwj5s0IlbqmA7R7dXi3+ZUukrjEnkApkybF2nmL0DdQdc1/ad/hbTHVIDh39hlALIxb3FFW2vZXiDwMzeQMA6tNo5aEX5d5cJ6S7n7QJaw0pphiSlKBITtWzHVYzCWbSpoGXUNctwt/mZPWFiZII2Qi9vUQSUZjIingIzRkjQHmthnhmEybk=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: e975f0ba2c6e063cbe4a5da67f0cfdd8_ed4d5aab65ac11f18b225254006c9bbf
-    ReservedCode2: wpjJRCaqwj5s0IlbqmA7R7dXi3+ZUukrjEnkApkybF2nmL0DdQdc1/ad/hbTHVIDh39hlALIxb3FFW2vZXiDwMzeQMA6tNo5aEX5d5cJ6S7n7QJaw0pphiSlKBITtWzHVYzCWbSpoGXUNctwt/mZPWFiZII2Qi9vUQSUZjIingIzRkjQHmthnhmEybk=
----
-
 <div align="center">
 
 <pre>
@@ -28,6 +17,20 @@ _______     ___    _   _
 </p>
 
 ---
+
+### 📊 3D Contribution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="3D Contribution" src="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" width="800" />
+  </picture>
+</p>
+
+---
+
+
 
 ### 🔥 featured
 
@@ -79,17 +82,7 @@ git clone https://github.com/EvanTop/TabOut.git
 
 ---
 
-### 📊 3D Contribution
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="3D Contribution" src="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" width="800" />
-  </picture>
-</p>
-
----
 
 <p align="center">
   <picture>
@@ -107,4 +100,3 @@ git clone https://github.com/EvanTop/TabOut.git
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
-*（内容由AI生成，仅供参考）*
