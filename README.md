@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/🎉_关闭特效-音效+彩纸-FE3A83?style=flat-square" />
   <img src="https://img.shields.io/badge/🔍_重复检测-一键清理-FF6B35?style=flat-square" />
   <img src="https://img.shields.io/badge/📌_稍后保存-书签清单-2EA44F?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔒_100%_本地-数据不外传-333?style=flat-square" />
 </p>
 
 bash
