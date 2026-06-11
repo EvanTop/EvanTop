@@ -18,8 +18,6 @@ _______     ___    _   _
 
 ---
 
-### 📊 3D Contribution
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-night-view.svg" />
