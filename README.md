@@ -2,20 +2,9 @@
 
 [![Blog-Evan's Space](https://img.shields.io/badge/Blog-Evan's%20Space-black?logo=blog&color=FE3A83)](https://evan.xin)
 
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: e975f0ba2c6e063cbe4a5da67f0cfdd8_fede597f65a911f18b225254006c9bbf
-    ReservedCode1: QCUluVWAflSrkxqOABKwNNhHaacRs6fFBawoqnl+jq6iOCikpaBJ8ZMaFpJs9PWtzH+LTRFphZMSne48v3SxetKfMNfv6ZbejUAPkEM1I4gQIpHxfR5ERpGfSJj5voM7AcxXk+HyvWwieWt4/qkmHy7ofYUbcEwg+Ifq9yIj+ECPpJ7ssv4GcvoYHso=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: e975f0ba2c6e063cbe4a5da67f0cfdd8_fede597f65a911f18b225254006c9bbf
-    ReservedCode2: QCUluVWAflSrkxqOABKwNNhHaacRs6fFBawoqnl+jq6iOCikpaBJ8ZMaFpJs9PWtzH+LTRFphZMSne48v3SxetKfMNfv6ZbejUAPkEM1I4gQIpHxfR5ERpGfSJj5voM7AcxXk+HyvWwieWt4/qkmHy7ofYUbcEwg+Ifq9yIj+ECPpJ7ssv4GcvoYHso=
----
 
 <div align="center">
 
-```
  ███████╗██╗   ██╗ █████╗ ███╗   ██╗  ████████╗ ██████╗ ██████╗
  ██╔════╝██║   ██║██╔══██╗████╗  ██║  ╚══██╔══╝██╔═══██╗██╔══██╗
  █████╗  ██║   ██║███████║██╔██╗ ██║     ██║   ██║   ██║██████╔╝
@@ -101,4 +90,3 @@ AIGC:
     <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
   </picture>
 </p>
-*（内容由AI生成，仅供参考）*
