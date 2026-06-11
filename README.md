@@ -1,92 +1,90 @@
-# Hi 👋 I'm Evan 😜
-
-[![Blog-Evan's Space](https://img.shields.io/badge/Blog-Evan's%20Space-black?logo=blog&color=FE3A83)](https://evan.xin)
-
 
 <div align="center">
 
- ███████╗██╗   ██╗ █████╗ ███╗   ██╗  ████████╗ ██████╗ ██████╗
- ██╔════╝██║   ██║██╔══██╗████╗  ██║  ╚══██╔══╝██╔═══██╗██╔══██╗
- █████╗  ██║   ██║███████║██╔██╗ ██║     ██║   ██║   ██║██████╔╝
- ██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║     ██║   ██║   ██║██╔═══╝
- ███████╗ ╚████╔╝ ██║  ██║██║ ╚████║     ██║   ╚██████╔╝██║
- ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═╝    ╚═════╝ ╚═╝
+
+ ███████╗██╗   ██╗ █████╗ ███╗   ██╗
+ ██╔════╝██║   ██║██╔══██╗████╗  ██║
+ █████╗  ██║   ██║███████║██╔██╗ ██║
+ ██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║
+ ███████╗ ╚████╔╝ ██║  ██║██║ ╚████║
+ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
 </div>
 
 <p align="center">
-  <samp>
-    full-stack builder &nbsp;·&nbsp; open source tinkerer &nbsp;·&nbsp; pixel perfectionist
-  </samp>
+  <samp>builder · tinkerer · minimalist</samp>
 </p>
 
 <p align="center">
-  <a href="https://evan.xin"><img src="https://img.shields.io/badge/blog-evan.xin-FE3A83?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTQgMTloMTZhMiAyIDAgMCAwIDItMlY3YTIgMiAwIDAgMC0yLTJINGEyIDIgMCAwIDAtMiAydjEwYTIgMiAwIDAgMCAyIDJ6Ii8+PGNpcmNsZSBjeD0iNyIgY3k9IjkiIHI9IjIiLz48cG9seWxpbmUgcG9pbnRzPSIyMSAxNSAxNiAxMCA1IDIxIi8+PC9zdmc+" alt="blog" /></a>
-  <a href="https://pry.cc"><img src="https://img.shields.io/badge/live-pry.cc-5B5EF7?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
-  <a href="https://github.com/EvanTop/ExcRTC"><img src="https://img.shields.io/badge/project-ExcRTC-181717?style=flat-square&logo=github" alt="ExcRTC" /></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/twitter-@evan-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="twitter" /></a>
+  <a href="https://evan.xin"><img src="https://img.shields.io/badge/blog-evan.xin-FE3A83?style=flat-square" /></a>
+  <a href="https://github.com/EvanTop"><img src="https://img.shields.io/github/followers/EvanTop?style=flat-square&color=5B5EF7" /></a>
 </p>
 
 ---
 
-### ⚡ what i'm building
+### 🔥 featured
 
-<p align="center">
-  <a href="https://github.com/EvanTop/ExcRTC">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=ExcRTC&theme=dark&hide_border=true&description_lines_count=3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=ExcRTC&theme=default&hide_border=true&description_lines_count=3" />
-      <img width="440" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=ExcRTC&theme=dark&hide_border=true&description_lines_count=3" alt="ExcRTC" />
-    </picture>
-  </a>
-</p>
-
-| **ExcRTC** | Excalidraw + RecordRTC fusion — screen recording with camera PIP right inside your whiteboard |
-|---|---|
-
----
-
-### 🧰 toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-WebRTC-333?style=for-the-badge&logo=webrtc" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
-</p>
-
----
-
-<details open>
-<summary><b>📊 this week i spent my time on</b></summary>
-<br />
-<p align="center">
+<a href="https://github.com/EvanTop/TabOut">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true&custom_title=&rank_icon=github&hide=stars,contribs" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true&count_private=true&custom_title=&rank_icon=github&hide=stars,contribs" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&hide=stars,contribs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=TabOut&theme=dark&hide_border=true&description_lines_count=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=TabOut&theme=default&hide_border=true&description_lines_count=2" />
+    <img width="500" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=TabOut&theme=dark&hide_border=true&description_lines_count=2" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6&hide=html,css" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6&hide=html,css" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6&hide=html,css" />
-  </picture>
+</a>
+
+**TabOut** — Chrome 扩展，将新标签页替换为所有打开标签页的仪表盘。基于开源项目深度二次创作。
+
+<p>
+  <img src="https://img.shields.io/badge/🧭_Nav_List-导航列表-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_域名分组-自动归类-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎉_关闭特效-音效+彩纸-FE3A83?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔍_重复检测-一键清理-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/📌_稍后保存-书签清单-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_100%_本地-数据不外传-333?style=flat-square" />
 </p>
-</details>
+
+bash
+git clone https://github.com/EvanTop/TabOut.git
+
+
+<br clear="right"/>
+
+---
+
+### 📦 all projects
+
+| project | description | stack | ⭐ |
+|---|---|---|---|
+| **[TabOut](https://github.com/EvanTop/TabOut)** | Chrome 标签页管理扩展 · 域名分组 / 导航列表 / 音效彩纸 | `JS` · Chrome Ext V3 | 5 |
+| **[ExcRTC](https://github.com/EvanTop/ExcRTC)** | Excalidraw + RecordRTC 融合 · 白板内嵌屏幕录制 + 摄像头画中画 | `TS` · React · WebRTC | 1 |
+| **[EvanNav](https://github.com/EvanTop/EvanNav)** | 个人私有化导航和收藏 | `JS` | 115 |
+| **[EvanMi](https://github.com/EvanTop/EvanMi)** | 极简域名表 / 导航页 · V9 支持后台管理 | `HTML` | 32 |
+| **[EvanNav_SV](https://github.com/EvanTop/EvanNav_SV)** | EvanNav 超级简化版 · 单 HTML 文件即用 | `HTML` | 27 |
+| **[xList](https://github.com/EvanTop/xList)** | 极简且优雅的个人列表 | `HTML` | 22 |
+| **[Oito](https://github.com/EvanTop/Oito)** | 极度简约的网站引导页 | `HTML` | 15 |
+| **[MiPanel](https://github.com/EvanTop/MiPanel)** | 域名资产盈亏管理工具 | `HTML` | 13 |
+| **[EvanCard](https://github.com/EvanTop/EvanCard)** | 超极简仿编程页面在线信息卡片 | `HTML` | 5 |
+| **[EvanTodo](https://github.com/EvanTop/EvanTodo)** | 简洁直观无需登录的网页待办事项 | `HTML` | 5 |
+| **[SOMi](https://github.com/EvanTop/SOMi)** | 极简域名资产展示与管理小站 | `TS` | 2 |
+| **[openclaw-remote-install-kit](https://github.com/EvanTop/openclaw-remote-install-kit)** | 远程安装工具套件 | `Shell` | 4 |
+| **[openclaw-vps-deploy-kit](https://github.com/EvanTop/openclaw-vps-deploy-kit)** | VPS 部署工具套件 | `Shell` | 2 |
+| **[AstraFlow](https://github.com/EvanTop/AstraFlow)** | UCloud 企业级一站式 AI 开发平台 | `-` | - |
 
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23f0f0f0&countColor=%235b5ef7&style=flat" />
-    <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6" />
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
+</p>
+
