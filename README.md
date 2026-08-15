@@ -58,10 +58,7 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 | [**MiPanel**](https://github.com/EvanTop/MiPanel) | 域名资产盈亏管理工具 | `HTML` | 13 |
 | [**EvanCard**](https://github.com/EvanTop/EvanCard) | 超极简仿编程页面在线信息卡片 | `HTML` | 5 |
 | [**EvanTodo**](https://github.com/EvanTop/EvanTodo) | 简洁直观无需登录的网页待办事项 | `HTML` | 5 |
-| [**openclaw-remote-install-kit**](https://github.com/EvanTop/openclaw-remote-install-kit) | 远程安装工具套件 | `Shell` | 4 |
-| [**SOMi**](https://github.com/EvanTop/SOMi) | 极简域名资产展示与管理小站 | `TS` | 2 |
-| [**openclaw-vps-deploy-kit**](https://github.com/EvanTop/openclaw-vps-deploy-kit) | VPS 部署工具套件 | `Shell` | 2 |
-| [**AstraFlow**](https://github.com/EvanTop/AstraFlow) | UCloud 企业级一站式 AI 开发平台 | `-` | - |
+
 
 ---
 
