@@ -1,4 +1,3 @@
-
 <div align="center"> <pre>
 _______     ___    _   _ 
 | ____\ \   / / \  | \ | |
@@ -28,14 +27,6 @@ _______     ___    _   _
 
 ### ✉️ featured
 
-<a href="https://github.com/EvanTop/smailr-mail-assistant">
-<picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=smailr-mail-assistant&theme=dark&hide_border=true&description_lines_count=2" />
-    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=smailr-mail-assistant&theme=default&hide_border=true&description_lines_count=2" />
-    <img width="500" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanTop&repo=smailr-mail-assistant&theme=dark&hide_border=true&description_lines_count=2" />
-  </picture>
-</a>
-
 [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
 
 <p>
@@ -50,8 +41,6 @@ _______     ___    _   _
 ```bash
 git clone https://github.com/EvanTop/smailr-mail-assistant.git
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -78,16 +67,9 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 ---
 
 <p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
-    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=EvanTop&show_icons=true&hide_border=true&theme=dark&hide_title=true&include_all_commits=true&rank_icon=github&hide=stars,contribs" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6" />
-    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTop&layout=compact&hide_border=true&theme=dark&hide_title=true&langs_count=6" />
-  </picture>
+<a href="https://github.com/EvanTop"><img src="https://img.shields.io/badge/GitHub-EvanTop-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/EvanTop?tab=followers"><img src="https://img.shields.io/github/followers/EvanTop?style=flat-square&label=followers&color=5B5EF7" /></a>
+  <a href="https://github.com/EvanTop?tab=repositories"><img src="https://img.shields.io/badge/focus-browser%20extensions-FE3A83?style=flat-square" /></a>
 </p> <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
