@@ -50,7 +50,6 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 | --- | --- | --- | --- |
 | [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) | Smailr Chromium 邮件助手 · 收件箱速览 / 多账户 / 本地提醒 | `JS` · Manifest V3 · Chrome Ext | 1 |
 | [**TabOut**](https://github.com/EvanTop/TabOut) | Chrome 标签页管理扩展 · 域名分组 / 导航列表 / 音效彩纸 | `JS` · Chrome Ext V3 | 5 |
-| [**ExcRTC**](https://github.com/EvanTop/ExcRTC) | Excalidraw + RecordRTC 融合 · 白板内嵌屏幕录制 + 摄像头画中画 | `TS` · React · WebRTC | 1 |
 | [**EvanNav**](https://github.com/EvanTop/EvanNav) | 个人私有化导航和收藏 | `JS` | 115 |
 | [**EvanMi**](https://github.com/EvanTop/EvanMi) | 极简域名表 / 导航页 · V9 支持后台管理 | `HTML` | 32 |
 | [**EvanNav_SV**](https://github.com/EvanTop/EvanNav_SV) | EvanNav 超级简化版 · 单 HTML 文件即用 | `HTML` | 27 |
