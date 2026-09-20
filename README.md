@@ -8,24 +8,34 @@ _______     ___    _   _
 
 <sup><i>builder  ·  tinkerer  ·  minimalist</i></sup>
 
-</div> <p align="center">
-<a href="https://evan.xin"><img src="https://img.shields.io/badge/blog-evan.xin-FE3A83?style=flat-square" /></a>
-  <a href="https://github.com/EvanTop"><img src="https://img.shields.io/github/followers/EvanTop?style=flat-square&color=5B5EF7" /></a>
-</p>
-
----
+</div> 
 
 <p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="3D Contribution" src="https://raw.githubusercontent.com/EvanTop/EvanTop/main/profile-3d-contrib/profile-gitblock.svg" width="800" />
-  </picture>
+  <img src="https://github.com/EvanTop/EvanTop/raw/main/profile-3d-contrib/profile-gitblock.svg" width="800" alt="3D Contribution" />
+</p>
+<p align="center">
+<a href="https://evan.xin"><img src="https://img.shields.io/badge/blog-evan.xin-FE3A83?style=flat-square" /></a>
+  <a href="https://github.com/EvanTop"><img src="https://img.shields.io/badge/GitHub-EvanTop-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/EvanTop?tab=followers"><img src="https://img.shields.io/github/followers/EvanTop?style=flat-square&label=followers&color=5B5EF7" /></a>
+  <a href="https://github.com/EvanTop?tab=repositories"><img src="https://img.shields.io/badge/focus-browser%20extensions-FE3A83?style=flat-square" /></a>
+</p>
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
 
 ---
 
 ### ✉️ featured
+
+[**SmailrX**](https://github.com/EvanTop/smailrx) — Smailr 邮件助手的 Android 原生应用。API 密钥登录、多账户管理、新邮件提醒、加密备份互认，原插件功能完整移植到移动端。
+
+<p>
+<img src="https://img.shields.io/badge/📱_原生_Android-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔔_新邮件提醒-通知_/_角标_/_音效-FE3A83?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_加密备份-PBKDF2_/_AES-GCM-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔄_插件同源-100%_功能对齐-5B5EF7?style=flat-square" />
+</p>
 
 [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
 
@@ -48,6 +58,7 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 
 | project | description | stack | ⭐ |
 | --- | --- | --- | --- |
+| [**SmailrX**](https://github.com/EvanTop/smailrx) | Smailr 邮件助手 Android 应用 · 插件同源 · 原生原生 | `Kotlin` · `Compose` · `Android` | 0 |
 | [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) | Smailr Chromium 邮件助手 · 收件箱速览 / 多账户 / 本地提醒 | `JS` · Manifest V3 · Chrome Ext | 1 |
 | [**TabOut**](https://github.com/EvanTop/TabOut) | Chrome 标签页管理扩展 · 域名分组 / 导航列表 / 音效彩纸 | `JS` · Chrome Ext V3 | 5 |
 | [**EvanNav**](https://github.com/EvanTop/EvanNav) | 个人私有化导航和收藏 | `JS` | 115 |
@@ -58,7 +69,6 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 | [**MiPanel**](https://github.com/EvanTop/MiPanel) | 域名资产盈亏管理工具 | `HTML` | 13 |
 | [**EvanCard**](https://github.com/EvanTop/EvanCard) | 超极简仿编程页面在线信息卡片 | `HTML` | 5 |
 | [**EvanTodo**](https://github.com/EvanTop/EvanTodo) | 简洁直观无需登录的网页待办事项 | `HTML` | 5 |
-
 
 ---
 
