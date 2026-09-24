@@ -22,13 +22,19 @@ _______     ___    _   _
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
-
 ---
+### 📌 featured
 
-### ✉️ featured
+[**EVASafe**](https://github.com/EvanTop/EVASafe) — 完全离线的安卓本地密码管理器。PIN 码 + 指纹解锁，`.holesafe` 加密备份，不联网、不做云同步，密码只存在你的手机里。
+<p>
+<img src="https://img.shields.io/badge/🔐_密码管理器-本地离线-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔓_PIN_%2B_指纹-双重解锁-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/📱_安卓-离线优先-FE3A83?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_加密备份-Holesafe-AES-GCM-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐_零联网-数据全本地-444?style=flat-square" />
+</p>
 
 [**SmailrX**](https://github.com/EvanTop/smailrx) — Smailr 邮件助手的 Android 原生应用。API 密钥登录、多账户管理、新邮件提醒、加密备份互认，原插件功能完整移植到移动端。
-
 <p>
 <img src="https://img.shields.io/badge/📱_原生_Android-000?style=flat-square" />
   <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
@@ -38,7 +44,6 @@ _______     ___    _   _
 </p>
 
 [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
-
 <p>
 <img src="https://img.shields.io/badge/✉️_快速收件箱-工具栏直达-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/👥_多账户-最多_8_个账户-181717?style=flat-square" />
@@ -47,17 +52,14 @@ _______     ___    _   _
   <img src="https://img.shields.io/badge/📝_本地管理-备注_/_隐藏邮件-2EA44F?style=flat-square" />
   <img src="https://img.shields.io/badge/🔒_隐私优先-本地存储_/_API_Key-333?style=flat-square" />
 </p>
-
 ```bash
 git clone https://github.com/EvanTop/smailr-mail-assistant.git
 ```
-
 ---
-
 ### 📦 all projects
-
 | project | description | stack | ⭐ |
 | --- | --- | --- | --- |
+| [**EVASafe**](https://github.com/EvanTop/EVASafe) | 完全离线安卓密码管理器 · PIN + 指纹 · .holesafe 加密备份 | `Android` · `Kotlin` · `Flutter` | - |
 | [**SmailrX**](https://github.com/EvanTop/smailrx) | Smailr 邮件助手 Android 应用 · 插件同源 · 原生原生 | `Kotlin` · `Compose` · `Android` | 0 |
 | [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) | Smailr Chromium 邮件助手 · 收件箱速览 / 多账户 / 本地提醒 | `JS` · Manifest V3 · Chrome Ext | 1 |
 | [**TabOut**](https://github.com/EvanTop/TabOut) | Chrome 标签页管理扩展 · 域名分组 / 导航列表 / 音效彩纸 | `JS` · Chrome Ext V3 | 5 |
@@ -69,9 +71,7 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 | [**MiPanel**](https://github.com/EvanTop/MiPanel) | 域名资产盈亏管理工具 | `HTML` | 13 |
 | [**EvanCard**](https://github.com/EvanTop/EvanCard) | 超极简仿编程页面在线信息卡片 | `HTML` | 5 |
 | [**EvanTodo**](https://github.com/EvanTop/EvanTodo) | 简洁直观无需登录的网页待办事项 | `HTML` | 5 |
-
 ---
-
 <p align="center">
 <a href="https://github.com/EvanTop"><img src="https://img.shields.io/badge/GitHub-EvanTop-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://github.com/EvanTop?tab=followers"><img src="https://img.shields.io/github/followers/EvanTop?style=flat-square&label=followers&color=5B5EF7" /></a>
@@ -79,3 +79,4 @@ git clone https://github.com/EvanTop/smailr-mail-assistant.git
 </p> <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
+
