@@ -22,8 +22,10 @@ _______     ___    _   _
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
+
 ### 📌 featured
-[**EvanPhoto**](https://github.com/EvanTop/EvanPhoto) — 极简沉浸式画廊主题。为纯视觉叙事而生，零冗余元素让每一张照片成为页面的绝对主角。可作为独立站点运行，也能作为专属相册或作品集展区。
+
+[EvanPhoto](https://github.com/EvanTop/EvanPhoto) — 极简沉浸式画廊主题。为纯视觉叙事而生，零冗余元素让每一张照片成为页面的绝对主角。可作为独立站点运行，也能作为专属相册或作品集展区。
 <p>
 <img src="https://img.shields.io/badge/🖼️_极简画廊-全黑沉浸-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/📸_EXIF展示-相机参数-181717?style=flat-square" />
@@ -31,7 +33,8 @@ _______     ___    _   _
   <img src="https://img.shields.io/badge/📱_移动端上传-REST_API-333?style=flat-square" />
   <img src="https://img.shields.io/badge/🎨_Canvas分享-二维码_PNG-444?style=flat-square" />
 </p>
-[**EVASafe**](https://github.com/EvanTop/EVASafe) — 完全离线的安卓本地密码管理器。PIN 码 + 指纹解锁，`.holesafe` 加密备份，不联网、不做云同步，密码只存在你的手机里。
+
+[EVASafe](https://github.com/EvanTop/EVASafe) — 完全离线的安卓本地密码管理器。PIN 码 + 指纹解锁，`.holesafe` 加密备份，不联网、不做云同步，密码只存在你的手机里。
 <p>
 <img src="https://img.shields.io/badge/🔐_密码管理器-本地离线-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/🔓_PIN_%2B_指纹-双重解锁-181717?style=flat-square" />
@@ -39,7 +42,8 @@ _______     ___    _   _
   <img src="https://img.shields.io/badge/🔒_加密备份-Holesafe-AES-GCM-333?style=flat-square" />
   <img src="https://img.shields.io/badge/🌐_零联网-数据全本地-444?style=flat-square" />
 </p>
-[**SmailrX**](https://github.com/EvanTop/smailrx) — Smailr 邮件助手的 Android 原生应用。API 密钥登录、多账户管理、新邮件提醒、加密备份互认，原插件功能完整移植到移动端。
+
+[SmailrX](https://github.com/EvanTop/smailrx) — Smailr 邮件助手的 Android 原生应用。API 密钥登录、多账户管理、新邮件提醒、加密备份互认，原插件功能完整移植到移动端。
 <p>
 <img src="https://img.shields.io/badge/📱_原生_Android-000?style=flat-square" />
   <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
@@ -47,7 +51,8 @@ _______     ___    _   _
   <img src="https://img.shields.io/badge/🔒_加密备份-PBKDF2_/_AES-GCM-333?style=flat-square" />
   <img src="https://img.shields.io/badge/🔄_插件同源-100%_功能对齐-5B5EF7?style=flat-square" />
 </p>
-[**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
+
+[Smailr 邮件助手](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
 <p>
 <img src="https://img.shields.io/badge/✉️_快速收件箱-工具栏直达-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/👥_多账户-最多_8_个账户-181717?style=flat-square" />
