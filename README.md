@@ -3,10 +3,11 @@ _______     ___    _   _
 | ____\ \   / / \  | \ | |
 |  _|  \ \ / / _ \ |  \| |
 | |___  \ V / ___ \| |\  |
-|_____|  \_/ /_/   \_\_| \_|
+|_____|  \_/      \_ | \_|
+  
 </pre>
 
-<sup><i>builder  ·  tinkerer  ·  minimalist</i></sup>
+<sup><i>builder  ·  tinkerer  ·  minimalist</i></sup>
 
 </div> 
 
@@ -23,43 +24,44 @@ _______     ___    _   _
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
 
+---
+
 ### 📌 featured
 
-[EvanPhoto](https://github.com/EvanTop/EvanPhoto) — 极简沉浸式画廊主题。为纯视觉叙事而生，零冗余元素让每一张照片成为页面的绝对主角。可作为独立站点运行，也能作为专属相册或作品集展区。
+[Smailr 邮件助手](https://github.com/EvanTop/smailr-mail-assistant) — Smailr 的 Chromium 扩展，工具栏直达收件箱，支持多账户与邮件提醒。
 <p>
-<img src="https://img.shields.io/badge/🖼️_极简画廊-全黑沉浸-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/✉️_快速收件箱-工具栏直达-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔔_新邮件提醒-角标_/_声音_/_通知-FE3A83?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔄_灵活同步-自动或手动-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_隐私优先-本地存储-444?style=flat-square" />
+</p>
+
+[SmailrX](https://github.com/EvanTop/SmailrX) — Smailr 的 Android 原生应用，插件功能完整移植，支持多账户与邮件提醒。
+<p>
+  <img src="https://img.shields.io/badge/📱_原生_Android-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔔_新邮件提醒-通知_/_角标_/_音效-FE3A83?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔒_加密备份-AES-GCM-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔄_插件同源-功能对齐-444?style=flat-square" />
+</p>
+
+[EvanPhoto](https://github.com/EvanTop/EvanPhoto) — 极简沉浸式画廊主题，零冗余设计让照片成为主角，可独立建站。
+<p>
+  <img src="https://img.shields.io/badge/🖼️_极简画廊-全黑沉浸-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/📸_EXIF展示-相机参数-181717?style=flat-square" />
   <img src="https://img.shields.io/badge/🌐_独立站点-WordPress主题-FE3A83?style=flat-square" />
   <img src="https://img.shields.io/badge/📱_移动端上传-REST_API-333?style=flat-square" />
   <img src="https://img.shields.io/badge/🎨_Canvas分享-二维码_PNG-444?style=flat-square" />
 </p>
 
-[EVASafe](https://github.com/EvanTop/EVASafe) — 完全离线的安卓本地密码管理器。PIN 码 + 指纹解锁，`.holesafe` 加密备份，不联网、不做云同步，密码只存在你的手机里。
+[EVASafe](https://github.com/EvanTop/EVASafe) — 完全离线的安卓密码管理器，PIN + 指纹解锁，加密备份，密码只存本机。
 <p>
-<img src="https://img.shields.io/badge/🔐_密码管理器-本地离线-5B5EF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔐_密码管理器-本地离线-5B5EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/🔓_PIN_%2B_指纹-双重解锁-181717?style=flat-square" />
   <img src="https://img.shields.io/badge/📱_安卓-离线优先-FE3A83?style=flat-square" />
   <img src="https://img.shields.io/badge/🔒_加密备份-Holesafe-AES-GCM-333?style=flat-square" />
   <img src="https://img.shields.io/badge/🌐_零联网-数据全本地-444?style=flat-square" />
-</p>
-
-[SmailrX](https://github.com/EvanTop/smailrx) — Smailr 邮件助手的 Android 原生应用。API 密钥登录、多账户管理、新邮件提醒、加密备份互认，原插件功能完整移植到移动端。
-<p>
-<img src="https://img.shields.io/badge/📱_原生_Android-000?style=flat-square" />
-  <img src="https://img.shields.io/badge/👥_多账户-最多_8_个-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔔_新邮件提醒-通知_/_角标_/_音效-FE3A83?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔒_加密备份-PBKDF2_/_AES-GCM-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔄_插件同源-100%_功能对齐-5B5EF7?style=flat-square" />
-</p>
-
-[Smailr 邮件助手](https://github.com/EvanTop/smailr-mail-assistant) — 为 Smailr 打造的 Chromium 浏览器扩展。在任意页面的工具栏快速查看收件箱、切换账户并接收新邮件提醒。
-<p>
-<img src="https://img.shields.io/badge/✉️_快速收件箱-工具栏直达-5B5EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/👥_多账户-最多_8_个账户-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔔_新邮件提醒-角标_/_声音_/_通知-FE3A83?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔄_灵活同步-自动或手动-FF6B35?style=flat-square" />
-  <img src="https://img.shields.io/badge/📝_本地管理-备注_/_隐藏邮件-2EA44F?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔒_隐私优先-本地存储_/_API_Key-333?style=flat-square" />
 </p>
 
 
@@ -70,18 +72,15 @@ _______     ___    _   _
 
 | project | description | stack | ⭐ |
 | --- | --- | --- | --- |
-| [**EVASafe**](https://github.com/EvanTop/EVASafe) | 完全离线安卓密码管理器 · PIN + 指纹 · .holesafe 加密备份 | `Android` · `Kotlin` · `Flutter` | - |
-| [**SmailrX**](https://github.com/EvanTop/smailrx) | Smailr 邮件助手 Android 应用 · 插件同源 · 原生原生 | `Kotlin` · `Compose` · `Android` | 0 |
-| [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) | Smailr Chromium 邮件助手 · 收件箱速览 / 多账户 / 本地提醒 | `JS` · Manifest V3 · Chrome Ext | 1 |
-| [**TabOut**](https://github.com/EvanTop/TabOut) | Chrome 标签页管理扩展 · 域名分组 / 导航列表 / 音效彩纸 | `JS` · Chrome Ext V3 | 5 |
-| [**EvanNav**](https://github.com/EvanTop/EvanNav) | 个人私有化导航和收藏 | `JS` | 115 |
-| [**EvanMi**](https://github.com/EvanTop/EvanMi) | 极简域名表 / 导航页 · V9 支持后台管理 | `HTML` | 32 |
-| [**EvanNav_SV**](https://github.com/EvanTop/EvanNav_SV) | EvanNav 超级简化版 · 单 HTML 文件即用 | `HTML` | 27 |
-| [**xList**](https://github.com/EvanTop/xList) | 极简且优雅的个人列表 | `HTML` | 22 |
-| [**Oito**](https://github.com/EvanTop/Oito) | 极度简约的网站引导页 | `HTML` | 15 |
-| [**MiPanel**](https://github.com/EvanTop/MiPanel) | 域名资产盈亏管理工具 | `HTML` | 13 |
-| [**EvanCard**](https://github.com/EvanTop/EvanCard) | 超极简仿编程页面在线信息卡片 | `HTML` | 5 |
-| [**EvanTodo**](https://github.com/EvanTop/EvanTodo) | 简洁直观无需登录的网页待办事项 | `HTML` | 5 |
+| [**WorkBuddy-Dashboard**](https://github.com/EvanTop/WorkBuddy-Dashboard) | WorkBuddy 本地使用数据看板 | `HTML` | 8 |
+| [**EvanMarvis**](https://github.com/EvanTop/EvanMarvis) | Marvis 使用统计看板 | `Python` | 1 |
+| [**Smailr 邮件助手**](https://github.com/EvanTop/smailr-mail-assistant) | Smailr 浏览器扩展 · 收件箱 / 多账户 / 提醒 | `JS` · Manifest V3 · Chrome Ext | 2 |
+| [**SmailrX**](https://github.com/EvanTop/SmailrX) | Smailr 安卓应用 · 插件同源 | `Kotlin` · `Compose` · `Android` | 2 |
+| [**EvanPhoto**](https://github.com/EvanTop/EvanPhoto) | 极简画廊主题 · EXIF / 上传 / 分享 | `PHP` · `WordPress` · `HTML` | 5 |
+| [**EVASafe**](https://github.com/EvanTop/EVASafe) | 离线安卓密码管理器 · PIN + 指纹 · 加密备份 | `Android` · `Kotlin` · `Flutter` | 6 |
+| [**TabOut**](https://github.com/EvanTop/TabOut) | Chrome 标签页管理 · 域名分组 / 导航 | `JS` · Chrome Ext V3 | 10 |
+| [**EvanMi**](https://github.com/EvanTop/EvanMi) | 极简域名导航页 · 后台管理 | `HTML` | 32 |
+| [**EvanNav**](https://github.com/EvanTop/EvanNav) | 个人私有化导航与收藏 | `JS` | 114 |
 
 
 ---
@@ -94,4 +93,3 @@ _______     ___    _   _
 </p> <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=EvanTop&label=visitors&labelColor=%23121212&countColor=%235b5ef7&style=flat" />
 </p>
-
